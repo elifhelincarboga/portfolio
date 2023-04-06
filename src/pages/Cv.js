@@ -10,8 +10,8 @@ function Cv() {
           <h3>About</h3>
           <p>
             I graduated from Dokuz Eylül University in 2017 with a degree in
-            law. After 5 years of working as owner of law office, I decided not
-            to work anymore because of my other interest.
+            law. After 5 years of working as owner of law office, I decided to 
+            change my career to pursue my ambition for software development.
           </p>
           <p>
             I have been always interested software and how they are built, so
@@ -36,7 +36,7 @@ function Cv() {
             My future plan is building visually stunning and functional user
             interfaces by using new technologies in correct combination. Also I
             have been eagerly exploring frontend technologies and my plan is
-            learning deeper.
+            gaining professional proficiency at it.
           </p>
           <p>
             Nowadays, I put together all my information to create 2 different
