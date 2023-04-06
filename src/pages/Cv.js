@@ -89,11 +89,35 @@ function Cv() {
           <h3>Certificates</h3>
           <h6 className="mt-3">
             <a
+              href="#/"
+              className="text-decoration-none me-2 position-relative"
+              target="_blank"
+            >
+              <p className="me-2 mb-0 d-inline">
+                Patika.dev | Intermadiate Frontend Web Development Path
+              </p>
+              <svg
+                className="link-svg position-absolute"
+                xmlns="http://www.w3.org/2000/svg"
+                width="1em"
+                height="1em"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  fill="currentColor"
+                  d="M18 10.82a1 1 0 0 0-1 1V19a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h7.18a1 1 0 0 0 0-2H5a3 3 0 0 0-3 3v11a3 3 0 0 0 3 3h11a3 3 0 0 0 3-3v-7.18a1 1 0 0 0-1-1Zm3.92-8.2a1 1 0 0 0-.54-.54A1 1 0 0 0 21 2h-6a1 1 0 0 0 0 2h3.59L8.29 14.29a1 1 0 0 0 0 1.42a1 1 0 0 0 1.42 0L20 5.41V9a1 1 0 0 0 2 0V3a1 1 0 0 0-.08-.38Z"
+                ></path>
+              </svg>
+            </a>
+            <small className="text-muted d-block">2023</small>
+          </h6>
+          <h6 className="mt-3">
+            <a
               href="https://www.udemy.com/certificate/UC-8ca0866b-9355-4709-af3a-3df8cc7e77f5/"
               className="text-decoration-none me-2 position-relative"
               target="_blank"
             >
-              <p className="me-2 mb-0 d-inline">Udemy Modern Web Development</p>
+              <p className="me-2 mb-0 d-inline">Udemy | Modern Web Development</p>
               <svg
                 className="link-svg position-absolute"
                 xmlns="http://www.w3.org/2000/svg"
@@ -116,7 +140,7 @@ function Cv() {
               target="_blank"
             >
               <p className="me-2 mb-0 d-inline">
-                Patika.dev Frontend Web Development Beginner
+                Patika.dev | Beginner Frontend Web Development Path
               </p>
               <svg
                 className="link-svg position-absolute"
@@ -133,29 +157,6 @@ function Cv() {
             </a>
             <small className="text-muted d-block">2022</small>
           </h6>
-          {/* <h6 className="mt-3">
-            <a
-              href="#/"
-              className="text-decoration-none me-2 position-relative"
-              target="_blank"
-            >
-              <p className="me-2 mb-0 d-inline">
-                Patika.dev Frontend Web Development Intermadiate
-              </p>
-              <svg
-                className="link-svg position-absolute"
-                xmlns="http://www.w3.org/2000/svg"
-                width="1em"
-                height="1em"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  fill="currentColor"
-                  d="M18 10.82a1 1 0 0 0-1 1V19a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h7.18a1 1 0 0 0 0-2H5a3 3 0 0 0-3 3v11a3 3 0 0 0 3 3h11a3 3 0 0 0 3-3v-7.18a1 1 0 0 0-1-1Zm3.92-8.2a1 1 0 0 0-.54-.54A1 1 0 0 0 21 2h-6a1 1 0 0 0 0 2h3.59L8.29 14.29a1 1 0 0 0 0 1.42a1 1 0 0 0 1.42 0L20 5.41V9a1 1 0 0 0 2 0V3a1 1 0 0 0-.08-.38Z"
-                ></path>
-              </svg>
-            </a>
-          </h6> */}
         </div>
       </div>
     </div>
